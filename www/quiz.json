@@ -1,0 +1,104 @@
+{
+  "questions": [ 
+       {
+           "question": "Which of the following variables is not a predefined variable?",
+           "answers": [" $get", "$ask","$post","none"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "  When you need to obtain the ASCII value of a character which of the following function you apply in PHP? ",
+           "answers": ["chr( );", "$ask","$request","none"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "  Which of the following method sends input to a script via a URL? ",
+           "answers": ["GET", "BOTH", "POST", "none"],
+       	   "correctAnswer": 1
+       },
+       {
+           "question": "Which of the following jQuery method checks the current selection against an expression?",
+           "answers": ["getIs", "is", "checkIs", "none"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": " Which of the following function returns a text in title case from a variable?",
+           "answers": ["ucwords($var)", "upper($var)","toupper($var)","ucword($var)"],
+       	   "correctAnswer": 4
+       },
+       {
+           "question": "PHP Stands for? ",
+           "answers": ["PHP Hypertex Processor", "PHP Hyper Markup Processor", "PHP Hyper Markup Preprocessor", "PHP Hypertext Preprocessor"],
+       	   "correctAnswer": 4
+       },
+       {
+           "question": "  PHP is an example of ___________ scripting language",
+           "answers": ["Server-side", "Client-side", "Browser-side", "In-side"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "What is the correct syntax for referring to an external script called \"xxx.js\"?",
+           "answers": ["script name=\"xxx.js\"", "script src=\"xxx.js\"", "script href=\"xxx.js\"", "none"],
+       	   "correctAnswer": 2
+       },
+       {
+           "question": "  Which of the following method sends input to a script via a URL? ",
+           "answers": ["GET", "BOTH", "POST", "none"],
+           "correctAnswer": 1
+       },
+       {
+           "question": "Which of the following ends an infinite for loop?",
+           "answers": ["stop();", "end;", "break;", "exit();"],
+       	   "correctAnswer": 3
+       },
+       {
+           "question": "Which of the following is a valid type of function javascript supports?",
+           "answers": [" named function", "anonymous function","Both function","none"],
+           "correctAnswer": 3
+       },
+       {
+           "question": "Which of the following type of variable takes precedence over other if names are same?",
+           "answers": ["global variable", "local variable","both","none"],
+           "correctAnswer": 1
+       },
+       {
+           "question": "Which built-in method returns the calling string value converted to lower case?",
+           "answers": ["toLowerCase()", "toLower()", "changeCase(case)", "none"],
+           "correctAnswer": 1
+       },
+       {
+           "question": "Which of the following jQuery method checks the current selection against an expression?",
+           "answers": ["getIs", "is", "checkIs", "none"],
+           "correctAnswer": 3
+       },
+       {
+           "question": " Which of the following jQuery method adds the specified class if it is not present, remove the specified class if it is present?",
+           "answers": ["toggleStyleClass(class)", "toggleClass( class)","toggleCSSClass","none"],
+           "correctAnswer": 2
+       },
+       {
+           "question": " Which of the following function returns a text in title case from a variable?",
+           "answers": ["ucwords($var)", "upper($var)","toupper($var)","ucword($var)"],
+           "correctAnswer": 4
+       },
+        {
+           "question": "  When you need to obtain the ASCII value of a character which of the following function you apply in PHP? ",
+           "answers": ["chr( );", "$ask","$request","none"],
+           "correctAnswer": 2
+       },
+       {
+           "question": "What is the correct syntax for referring to an external script called \"xxx.js\"?",
+           "answers": ["script name=\"xxx.js\"", "script src=\"xxx.js\"", "script href=\"xxx.js\"", "none"],
+           "correctAnswer": 2
+       },
+       {
+           "question": "Which of the following variables is not a predefined variable?",
+           "answers": [" $get", "$ask","$post","none"],
+           "correctAnswer": 2
+       },
+       {
+           "question": " Which of the following jQuery method adds the specified class if it is not present, remove the specified class if it is present?",
+           "answers": ["toggleStyleClass(class)", "toggleClass( class)","toggleCSSClass","none"],
+           "correctAnswer": 2
+       }
+     ]
+ }

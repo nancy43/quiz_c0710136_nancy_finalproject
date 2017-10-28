@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="cordova.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+
+
+    <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com">
+
+
+
+</head>
+
+<body onload="rawData()">
+
+    <div data-role="page">
+        <div data-role="header">
+            <h1 style="color:black">Quiz</h1>
+        </div>
+        <!-- /header -->
+        <div data-role="content">
+            <h2 id="test"></h2>
+            <p id="dataParsed"></p>
+            <div id="question">
+            </div>
+            <!-- /content -->
+            <div id="footer" data-role="footer">
+
+            </div>
+            <!-- /footer -->
+
+        </div>
+        <!-- /page -->
+
+
+    </div>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+
+</html>
